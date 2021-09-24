@@ -12,4 +12,4 @@
 | 2. kkVPN Windows app servers | <font color="White">Ok</font> | 
 | 3. kkVPN L2TP servers | <font color="White">Ok</font> | 
  
-[Where to download the latest kkVPN app](https://github.com/a2z18/web/blob/main/getkk.md)
+[Download the latest kkVPN app](https://github.com/a2z18/web/blob/main/getkk.md)
