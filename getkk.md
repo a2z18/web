@@ -12,8 +12,8 @@
   - Go to [Google Play store](https://play.google.com/store/apps/details?id=com.kk.androidclient.kkapp) to download and install <b>kkVPN</b>
   - Go to [Apkpure app store](https://apkpure.com/p/com.kk.androidclient.kkapp) to download and install <b>kkVPN</b>
   - Sideload kkVPN app install apk file directly to your android deivce, click one of the below links
-    - [Click download 1, wait, then install](https://github.com/a2zitpro/client/releases/download/latest/app-prod-release.apk)
-    - [Click download 2, wait, then install](https://bitbucket.org/kk64/public/downloads/app-prod-release.apk)
+    - [Click download 1, wait, then install](https://bitbucket.org/kk64/public/downloads/app-prod-release.apk)
+    - [Click download 2, wait, then install](https://gitlab.com/grp86/pubapp/-/raw/main/app-prod-release.apk)
  
 - Apple iOS - go to [Apple app store](https://apps.apple.com/us/app/kkvpn/id1530649322) and install <b>kkVPN</b> by IT-029, LLC
   
